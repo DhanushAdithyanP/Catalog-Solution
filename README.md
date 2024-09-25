@@ -20,5 +20,5 @@ I know the easiest way to parse the json file was using java but couldnt spend m
 
 ## **Code Dry Run**
 
-![Alt Text](images/shamir_algorithm.png)
+![Alt Text](catalog.jpg)
 
